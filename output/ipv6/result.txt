@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-15 06:38:09,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-15 18:48:26,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1726,6 +1726,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南自贸,https://migu.188766.xyz/?migutoken=e34bd26d6c6e2790e51f9b354ab9058d&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=92c8e8d96d8b89bbd79e90a3ca3873e3&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=7113ba2bf2434317657814744a2ecd02&id=hn_jjpd&type=sz
+海南自贸,https://migu.188766.xyz/?migutoken=d61ae7966577106a24042d42d3f7f29c&id=hn_jjpd&type=sz
 海南文旅,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8
 海南文旅,https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-7.m3u8
 海南文旅,https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-9.m3u8
@@ -1744,6 +1745,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南少儿,https://migu.188766.xyz/?migutoken=3ba3f0542e78c63b0f420f01fc069687&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=cc176810221ff2231f1bfff343520d58&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=a2efb0f8a48d48d0b656b18614a7e34e&id=hn_sepd&type=sz
+海南少儿,https://migu.188766.xyz/?migutoken=e62fea63af0848a53c3a2c8cce5e704a&id=hn_sepd&type=sz
 海南公共,http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
 海南公共,https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-8.m3u8
 海南公共,https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-9.m3u8
